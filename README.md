@@ -3,7 +3,7 @@
 This is a program which tries to create a tools for managing openai's chatgpt api. 
 
 # Compilation
-Please use the following command for compilation of the lib file (src/cy-master) into build/lib/chatgptapi.cython-310-x86_64-linux-gnu.so (filename may be different due to version of python, version of gnu c and cpu architecture.) In side the project's folder, type the following in terminal:
+Please use the following command for compilation of the lib file (src/chatgptapi.pyx) into build/lib/chatgptapi.cython-310-x86_64-linux-gnu.so (filename may be different due to version of python, version of gnu c and cpu architecture.) In side the project's folder, type the following in terminal:
 
 ```
 ./cy-master
