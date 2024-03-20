@@ -1,2 +1,3 @@
 build
-
+lib/*.c
+lib/setup.py
